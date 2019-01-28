@@ -67,8 +67,13 @@
 }
 .box_2 {
 }
+.horizontal_line {
+}
 .image {
   color:#000000;
+}
+.paragraph {
+  text-align:left;
 }
 .shape {
 }
@@ -84,6 +89,20 @@
   font-weight:400;
   font-style:normal;
   font-size:17px;
+  text-align:left;
+}
+._30号字_服务主标题，例如双行列表内的下方描述信息。__） {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:15px;
+  text-align:left;
+}
+._28号字_页面备注信息及列表的表头说明文字__） {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
   text-align:left;
 }
 .line {
